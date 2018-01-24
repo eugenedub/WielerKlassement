@@ -19,7 +19,6 @@ public class Main {
             case 3:
                 System.out.println("Programma wordt afgesloten: ");
                 break;
-
             default:
                 System.out.println("Er is iets fout gegaan");
         }
